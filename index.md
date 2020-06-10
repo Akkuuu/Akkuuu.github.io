@@ -6,7 +6,7 @@ On this site you can find my projects/work.
 
 ```markdown
 
-- Powershell/Python Scripts
+- Powershell/Python Scripts/VB6/.NET
 - Morphine Video Game
 - Bots/Macros (Releasing soon)
 - TroyKO Online MMORPG Server (Discontinued)
