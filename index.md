@@ -23,7 +23,7 @@ Morphine Video Game <a href = "https://store.steampowered.com/app/410430/Morphin
 
 ### Troyko K3 Game Server
 
-My discontinued game server ran in 2015. <a herf =  "https://www.facebook.com/TroyKnightOnline"></a>
+My discontinued game server ran in 2015. <a herf = "https://www.facebook.com/TroyKnightOnline">Facebook Page</a>
 
 ### Support or Contact
 
