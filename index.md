@@ -1,8 +1,6 @@
 ## Welcome to my page.
 
-My name is Anil from Vancouver / Canada. 26y old System Admin / Data Analyst / Programmer.
-
-On this site you can find my projects/work.
+From Vancouver / Canada. 26y old System Admin / Data Analyst / Programmer.
 
 ### Projects
 
