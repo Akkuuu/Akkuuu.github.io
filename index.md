@@ -13,7 +13,7 @@ From Vancouver / Canada. 26y old System Admin / Data Analyst / Programmer.
 
 ```
 
-### You can find my PowerShell/Python Scripts here;
+### Find my PowerShell/Python Scripts here;
 
 [Link to my Github Rep ->](https://github.com/Akkuuu/Powershell-Scripts)
 
