@@ -23,6 +23,10 @@ On this site you can find my projects/work.
 
 Morphine Video Game <a href = "https://store.steampowered.com/app/410430/Morphine">Steam Page</a>
 
+### KO BOT
+
+Knight Online Bot <a href = "https://github.com/Akkuuu/KO-BOT">Github Link</a>
+
 ### Troyko K3 Game Server
 
 My discontinued game server ran in 2015. <a href = "https://www.facebook.com/TroyKnightOnline">Facebook Page</a>
