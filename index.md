@@ -25,13 +25,13 @@ Morphine Video Game <a href = "https://store.steampowered.com/app/410430/Morphin
 
 Knight Online Bot <a href = "https://github.com/Akkuuu/KO-BOT">Github Link</a>
 
-### Securitify
+### Auto-Deployment - Security and Inventorying Project ( Currently working on it )
 
 ```markdown
 Install/upgrade programs on computers remotely. 
 Auto-upgrade
-Shows which programs have vulnerabilities.
-Checks programs & office365 vulnerabilities and reports to system admins.
+Shows outdated programs.
+Checks programs & office365 vulnerabilities and reports.
 Tracks network layer and reports intrusions.
 Inventorying.
 
