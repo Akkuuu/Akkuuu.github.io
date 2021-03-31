@@ -4,14 +4,11 @@ From Vancouver / Canada. 26y old System Admin / Data Analyst / Programmer.
 
 ### Projects
 
-```markdown
+### TradeB0t
 
-- Powershell/Python Scripts/VB6/.NET
-- Morphine Video Game
-- Bots/Macros (Releasing soon)
-- TroyKO Online MMORPG Server (Discontinued)
+Ability to search and filter popular social media and news platforms for sentiment analysis in real-time and auto-trade with supported platforms.
 
-```
+<a href = "https://www.tradeb0t.com">Steam Page</a>
 
 ### Find my PowerShell/Python Scripts here;
 
