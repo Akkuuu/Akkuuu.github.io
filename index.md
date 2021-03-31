@@ -8,7 +8,7 @@ From Vancouver / Canada. 26y old System Admin / Data Analyst / Programmer.
 
 Ability to search and filter popular social media and news platforms for sentiment analysis in real-time and auto-trade with supported platforms.
 
-<a href = "https://www.tradeb0t.com">Steam Page</a>
+<a href = "https://www.tradeb0t.com">www.tradeb0t.com</a>
 
 ### Find my PowerShell/Python Scripts here;
 
